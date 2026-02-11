@@ -1,0 +1,27 @@
+ h1 {
+            background-color: antiquewhite;
+            color: black;
+        }
+
+        span {
+            background-color: green;
+            color: white;
+        }
+
+        p {
+            background-color: green;
+            color: white;
+        }
+
+        .name {
+            background-color: antiquewhite;
+            color: black;
+        }
+
+        .intro{
+            color: antiquewhite;background-color: green; }
+
+            .info{
+                color: red; background-color: blue;
+            }
+            

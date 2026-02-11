@@ -1,0 +1,11 @@
+css=> Casecading Style Sheet
+
+1.inline css
+2.internal css
+3.external css
+
+indentifier....
+
+1.tag 
+2.class
+3.id
